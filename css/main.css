@@ -1615,6 +1615,9 @@ iframe {
     .footer-subtitle{
         text-align: center;
     }
+    .footer-list{
+        text-align: center;
+    }
 }
 
 @media(max-width:500px) {
